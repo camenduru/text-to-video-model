@@ -20,6 +20,7 @@ https://github.com/gradio-app/gradio <br />
 https://github.com/mongodb/mongo <br />
 
 ### 🎴 Demo UI & Test
+https://platform.stability.ai/docs/api-reference <br />
 https://github.com/angular/angular <br />
 https://colab.research.google.com/ <br />
 https://github.com/jupyter/notebook <br />
