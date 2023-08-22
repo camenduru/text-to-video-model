@@ -32,4 +32,11 @@ https://github.com/jupyter/notebook <br />
 ## 💰 Sponsor
 https://100.builders/ <br />
 https://twitter.com/withBackdrop <br />
+https://base.org/ <br />
+https://stability.ai/ <br />
+https://www.seedclub.xyz/ <br />
+https://www.sismo.io/ <br />
+https://www.artizen.fund/ <br />
+https://layerx.xyz/ <br />
+
 ![image](https://github.com/camenduru/text-to-video-model/assets/54370274/32668c38-305f-4697-9c4b-17f9826fc25c)
