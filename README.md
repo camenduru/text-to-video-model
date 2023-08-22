@@ -30,5 +30,5 @@ https://colab.research.google.com/ <br />
 https://github.com/jupyter/notebook <br />
 
 ## 💰 Sponsor
-https://100.builders/
-https://twitter.com/withBackdrop
+https://100.builders/ <br />
+https://twitter.com/withBackdrop <br />
