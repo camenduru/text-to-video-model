@@ -15,16 +15,21 @@ https://github.com/ExponentialML/Text-To-Video-Finetuning <br />
 https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
 
 ### 📅 Management Framework & UI & Database
-https://github.com/spring-projects/spring-framework
-https://github.com/gradio-app/gradio
-https://github.com/mongodb/mongo
+https://github.com/spring-projects/spring-framework <br />
+https://github.com/gradio-app/gradio <br /> 
+https://github.com/mongodb/mongo <br />
 
 ### 🎴 Demo UI & Test
-https://github.com/angular/angular
+https://github.com/angular/angular <br />
 https://colab.research.google.com/ <br />
 https://github.com/jupyter/notebook <br />
 
-## 💰 Sponsor
+### Who we are?
+https://twitter.com/camenduru (at this point just me 😥)
+Camenduru is a computer engineer who has worked with game studios (Unity, Unreal Engine, VR (Virtual Reality), PC and Mobile games).
+Camenduru is also the creator of several ML models and notebooks, which can be found at https://github.com/camenduru and https://huggingface.co/camenduru
+
+### 💰 Sponsor
 https://100.builders/ <br />
 https://twitter.com/withBackdrop <br />
 https://base.org/ <br />
