@@ -24,10 +24,10 @@ https://github.com/angular/angular <br />
 https://colab.research.google.com/ <br />
 https://github.com/jupyter/notebook <br />
 
-### Who we are?
-https://twitter.com/camenduru (at this point just me 😥)
-Camenduru is a computer engineer who has worked with game studios (Unity, Unreal Engine, VR (Virtual Reality), PC and Mobile games).
-Camenduru is also the creator of several ML models and notebooks, which can be found at https://github.com/camenduru and https://huggingface.co/camenduru
+### 🎎 Who we are?
+https://twitter.com/camenduru (at this point just me 😥)  <br />
+Camenduru is a computer engineer who has worked with game studios (Unity, Unreal Engine, VR (Virtual Reality), PC and Mobile games).  <br />
+Camenduru is also the creator of several ML models and notebooks, which can be found at https://github.com/camenduru and https://huggingface.co/camenduru  <br />
 
 ### 💰 Sponsor
 https://100.builders/ <br />
