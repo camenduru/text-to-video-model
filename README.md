@@ -1,4 +1,5 @@
 ## The aim of this project is to develop an open-source text-to-video model and create an easy-to-use interface for artists.
+We will decide on the project name later (code name: text-to-video-model 😋)
 
 ### 📦 Dataset Preparation
 https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m (HD-VILA-100M Dataset) <br />
