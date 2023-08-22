@@ -13,19 +13,13 @@ https://github.com/showlab/Tune-A-Video <br />
 https://github.com/ExponentialML/Text-To-Video-Finetuning <br />
 https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
 
-### 📅 Management Framework
+### 📅 Management Framework & UI & Database
 https://github.com/spring-projects/spring-framework
-
-### 📅 Management UI
 https://github.com/gradio-app/gradio
-
-### 📅 Management Database
 https://github.com/mongodb/mongo
 
-### 🎴 Demo UI
+### 🎴 Demo UI & Test
 https://github.com/angular/angular
-
-### 🎴 Demo Test
 https://colab.research.google.com/ <br />
 https://github.com/jupyter/notebook <br />
 
