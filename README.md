@@ -9,6 +9,15 @@ We will decide on the project name later (code name: text-to-video-model 😋)
 - #### Model Size: ~4.1G
 ![Screenshot 2023-08-23 130300](https://github.com/camenduru/text-to-video-model/assets/54370274/20efb1d4-1b13-4e77-b64f-109704b43d23)
 
+### Potat 1️⃣ (Prototype Model)
+![243292723-fa703668-a931-41e1-8bcf-19c72203980b](https://github.com/camenduru/text-to-video-model/assets/54370274/3d6d0842-7d73-4a2e-bae1-428e12b4803c)
+
+- #### Open-Source 1024x576 Text To Video Model 🥳
+- #### Trained with 1xA100 (40GB)
+- #### 2197 clips, 68388 tagged frames ( salesforce/blip2-opt-6.7b-coco )
+- #### train_steps: 10000
+- #### Model Card https://huggingface.co/camenduru/potat1
+
 ### Examles
 Prompt: Octopus under the ocean.
 
@@ -29,7 +38,6 @@ https://github.com/camenduru/text-to-video-model/assets/54370274/48ec4600-b8f9-4
 Prompt: A glowing jelly creature floating through a forest
 
 https://github.com/camenduru/text-to-video-model/assets/54370274/7a1fbf82-2812-4214-9250-e0d31d7778ab
-
 
 ### 📦 Dataset Preparation
 https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m (HD-VILA-100M Dataset) <br />
