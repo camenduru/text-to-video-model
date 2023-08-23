@@ -1,6 +1,8 @@
 ## The aim of this project is to develop an open-source text-to-video model and create an easy-to-use interface for artists.
 We will decide on the project name later (code name: text-to-video-model 😋)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-model/blob/main/test.ipynb)
+
 ### Performance
 - #### System RAM: ~8.5 GB
 - #### VRAM: ~11 GB
