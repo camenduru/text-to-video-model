@@ -23,22 +23,6 @@ Prompt: Octopus under the ocean.
 
 https://github.com/camenduru/text-to-video-model/assets/54370274/679fd523-a4e0-4c65-8deb-2a6829c8f26c
 
-Prompt: Oil painting van gogh style of an owl flying out of a tree
-
-https://github.com/camenduru/text-to-video-model/assets/54370274/f3d57da1-18d4-4648-89d6-e588bd70f5dc
-
-Prompt: Studio ghibli style animation, young girl waiting at the bus stop on a rainy chilling day.
-
-https://github.com/camenduru/text-to-video-model/assets/54370274/b78d8d77-0def-42ef-9ea1-8ec8c96b01e9
-
-Prompt: A car doing a burnout. Ultra hd, 4k, high quality.
-
-https://github.com/camenduru/text-to-video-model/assets/54370274/48ec4600-b8f9-4ff1-aec8-c56a9479f25e
-
-Prompt: A glowing jelly creature floating through a forest
-
-https://github.com/camenduru/text-to-video-model/assets/54370274/7a1fbf82-2812-4214-9250-e0d31d7778ab
-
 ### 📦 Dataset Preparation
 https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m (HD-VILA-100M Dataset) <br />
 http://toflow.csail.mit.edu/ (Vimeo-90k Dataset) <br /> 
