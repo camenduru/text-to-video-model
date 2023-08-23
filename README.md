@@ -12,9 +12,9 @@ Prompt: Octopus under the ocean.
 
 https://github.com/camenduru/text-to-video-model/assets/54370274/679fd523-a4e0-4c65-8deb-2a6829c8f26c
 
-Prompt: An astronaut under the ocean.
+Prompt: Oil painting van gogh style of an owl flying out of a tree
 
-https://github.com/camenduru/text-to-video-model/assets/54370274/0344257f-356e-4abe-81a3-81f892ae6c84
+https://github.com/camenduru/text-to-video-model/assets/54370274/f3d57da1-18d4-4648-89d6-e588bd70f5dc
 
 Prompt: Studio ghibli style animation, young girl waiting at the bus stop on a rainy chilling day.
 
