@@ -26,6 +26,11 @@ Prompt: A car doing a burnout. Ultra hd, 4k, high quality.
 
 https://github.com/camenduru/text-to-video-model/assets/54370274/48ec4600-b8f9-4ff1-aec8-c56a9479f25e
 
+Prompt: A glowing jelly creature floating through a forest
+
+https://github.com/camenduru/text-to-video-model/assets/54370274/7a1fbf82-2812-4214-9250-e0d31d7778ab
+
+
 ### 📦 Dataset Preparation
 https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m (HD-VILA-100M Dataset) <br />
 http://toflow.csail.mit.edu/ (Vimeo-90k Dataset) <br /> 
