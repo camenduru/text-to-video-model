@@ -1,3 +1,6 @@
+🐣 Please follow me for new updates https://twitter.com/camenduru <br />
+🔥 Please join our discord server https://discord.gg/k5BwmmvJJU <br />
+
 ## The aim of this project is to develop an open-source text-to-video model and create an easy-to-use interface for artists.
 We will decide on the project name later (code name: text-to-video-model 😋)
 
