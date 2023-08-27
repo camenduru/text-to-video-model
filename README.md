@@ -6,6 +6,10 @@ We will decide on the project name later (code name: text-to-video-model 😋)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/text-to-video-model/blob/main/test.ipynb)
 
+
+## What have you shipped this week?
+- ### [Week 1 Progress](WK1.md)
+
 ### Performance
 - #### System RAM: ~8.5 GB
 - #### VRAM: ~11 GB
