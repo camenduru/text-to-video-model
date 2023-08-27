@@ -4,7 +4,7 @@
 ![WK1 DEMO 1-4 screenshot](https://github.com/camenduru/text-to-video-model/assets/54370274/2c38652b-a1b6-481a-ad5b-e5bb41d3331f)
 ![WK1 DEMO 2-26 screenshot](https://github.com/camenduru/text-to-video-model/assets/54370274/af5a9305-f9e8-450e-8322-3f6a89495533)
 
-- ### Managment Console
+- ### Management Console
 ![WK1 DEMO 4-14 screenshot](https://github.com/camenduru/text-to-video-model/assets/54370274/57445b79-7296-4df2-8c69-bad2091c83e3)
 
 - ### Discord Job Queue
