@@ -1,4 +1,4 @@
-## Week 1 Update
+## Week 1 Progress
 
 - ### Text To Video Colab Demo
 ![WK1 DEMO 1-4 screenshot](https://github.com/camenduru/text-to-video-model/assets/54370274/2c38652b-a1b6-481a-ad5b-e5bb41d3331f)
