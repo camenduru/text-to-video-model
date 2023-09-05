@@ -30,6 +30,8 @@ Prompt: Octopus under the ocean.
 
 https://github.com/camenduru/text-to-video-model/assets/54370274/679fd523-a4e0-4c65-8deb-2a6829c8f26c
 
+https://github.com/camenduru/text-to-video-model/assets/54370274/e59edfe0-41b0-46ff-ad32-b5cfd755361f
+
 ### 📦 Dataset Preparation
 https://github.com/microsoft/XPretrain/tree/main/hd-vila-100m (HD-VILA-100M Dataset) <br />
 http://toflow.csail.mit.edu/ (Vimeo-90k Dataset) <br /> 
