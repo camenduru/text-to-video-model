@@ -10,7 +10,7 @@
 -  2197 clips, 68388 tagged frames ( salesforce/blip2-opt-6.7b-coco )
 -  train_steps: 10000
 -  System RAM: ~8.5 GB VRAM: ~11 GB Model Size: ~4.1G
--  Model Card https://huggingface.co/camenduru/potat1
+-  Model https://huggingface.co/camenduru/potat1
 
 ### 🦒 Colab
 
