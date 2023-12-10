@@ -42,6 +42,9 @@ https://github.com/camenduru/text-to-video-model/assets/54370274/e59edfe0-41b0-4
 
 ![Screenshot 2023-08-23 130300](https://github.com/camenduru/text-to-video-model/assets/54370274/20efb1d4-1b13-4e77-b64f-109704b43d23)
 
+### 📋 Tutorial
+https://github.com/camenduru/Text-To-Video-Finetuning-colab <br />
+
 ### 📦 Base Model
 https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis <br />
 https://www.modelscope.cn/models/damo/text-to-video-synthesis <br />
